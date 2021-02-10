@@ -2,4 +2,5 @@
 
 
 
--- Full Stack Web Developper
+. Full Stack Web Developper
+. Javascript Developper
