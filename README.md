@@ -13,7 +13,9 @@
 
 [![DolarJS](https://github-readme-stats.vercel.app/api/pin/?username=mboussaid&repo=DolarJs)](https://github.com/mboussaid/DolarJS)
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
+[![JSS](https://github-readme-stats.vercel.app/api/pin/?username=mboussaid&repo=JSS)](https://github.com/mboussaid/JSS)
 
-<i class="devicon-csharp-plain colored"></i>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+
+[![VerifyJS](https://github-readme-stats.vercel.app/api/pin/?username=mboussaid&repo=VerifyJS)](https://github.com/mboussaid/VerifyJS)
+
+
