@@ -1,8 +1,14 @@
 # Full Stack Web Developer 
-## :heavy_exclamation_mark: Requirements
 
-* [Node]()
+
+* [HTML5]()
+* [CSS3]()
+* [JAVASCRIPT]()
+* [VUEJS3]()
 * [PHP]()
+* [LARAVEL]()
+* [MYSQl]()
+* [ExpressJS]()
 
 ![mboussaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=mboussaid&show_icons=true,prs)
 
