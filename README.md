@@ -1,12 +1,8 @@
-### Hi there 👋
+# Full Stack Web Developer 
+## :heavy_exclamation_mark: Requirements
 
-
-
-. Full Stack Web Developper
-
-
-. Javascript Developper
-
+* [Node]()
+* [PHP]()
 
 ![mboussaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=mboussaid&show_icons=true,prs)
 
