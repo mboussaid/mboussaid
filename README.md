@@ -19,3 +19,4 @@
 [![VerifyJS](https://github-readme-stats.vercel.app/api/pin/?username=mboussaid&repo=VerifyJS)](https://github.com/mboussaid/VerifyJS)
 
 
+[![Maroc_Regions_Villes_API](https://github-readme-stats.vercel.app/api/pin/?username=mboussaid&repo=Maroc_Regions_Villes_API)](https://github.com/mboussaid/Maroc_Regions_Villes_API)
