@@ -1,4 +1,10 @@
-# Full Stack Web Developer 
+```js
+const profile = {
+                FullName: "Boussaid Mohamed",
+                JobTitle: "Full Stack Web Developer",
+                quote:  "The only way to learn a new programming language is by writing programs in it "
+                }
+```
 
 
 
