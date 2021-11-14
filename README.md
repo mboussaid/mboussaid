@@ -1,17 +1,10 @@
-```js
-const profile = {
-                FullName: "Boussaid Mohamed",
-                JobTitle: "Full Stack Web Developer",
-                quote:  "The only way to learn a new programming language is by writing programs in it "
-                }
-```
-
+[![ContextMenu.js](https://github-readme-stats.vercel.app/api/pin/?username=mboussaid&repo=ContextMenu.Js)](https://github.com/mboussaid/ContextMenu.JS)
 
 
 ![mboussaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=mboussaid&show_icons=true,prs)
 
 
-[![DolarJS](https://github-readme-stats.vercel.app/api/pin/?username=mboussaid&repo=DolarJs)](https://github.com/mboussaid/DolarJS)
+[![Dolar.JS](https://github-readme-stats.vercel.app/api/pin/?username=mboussaid&repo=Dolar.Js)](https://github.com/mboussaid/Dolar.JS)
 
 [![JSS](https://github-readme-stats.vercel.app/api/pin/?username=mboussaid&repo=JSS)](https://github.com/mboussaid/JSS)
 
