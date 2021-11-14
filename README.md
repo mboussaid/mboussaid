@@ -1,5 +1,6 @@
 [![ContextMenu.js](https://github-readme-stats.vercel.app/api/pin/?username=mboussaid&repo=ContextMenu.Js)](https://github.com/mboussaid/ContextMenu.JS)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mboussaid&layout=compact)](https://github.com/mboussaid/github-readme-stats)
 
 ![mboussaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=mboussaid&show_icons=true,prs)
 
